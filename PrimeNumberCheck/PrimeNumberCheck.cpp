@@ -6,7 +6,7 @@ int main() {
   int i, n;
   bool is_prime = true;
 
-  cout << "Enter an integer: ";
+  cout << "Enter an integer: (UAT edit)";
   cin >> n;
 
   // 0 and 1 are not prime numbers
