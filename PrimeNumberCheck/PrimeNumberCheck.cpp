@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
   int i, n;
-  bool is_prime = true;
+  bool is_prime = true; //changes made in main branch
 
   cout << "Enter the integer: (main edit)";
   cin >> n;
